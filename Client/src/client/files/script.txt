@@ -1,0 +1,15 @@
+help
+info
+show
+add
+Лабораторная работа №4 по ОПД
+23
+345
+15
+456
+23
+HOPELESS
+Gennadiy Basirovanniy
+2014-03-17T18:30:00
+3333 444555
+execute_script client/src/client/files/script2.txt

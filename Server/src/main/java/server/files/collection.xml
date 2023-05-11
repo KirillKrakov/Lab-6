@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<labWorkCatalog>
+    <labWork>
+        <id>1</id>
+        <name>Лабораторная работа №4 по программированию</name>
+        <coordinates>
+            <x>2.03</x>
+            <y>14</y>
+        </coordinates>
+        <creationDate>2023-02-22T13:36:00</creationDate>
+        <minimalPoint>14</minimalPoint>
+        <personalQualitiesMinimum>4.2</personalQualitiesMinimum>
+        <averagePoint>73</averagePoint>
+        <difficulty>HOPELESS</difficulty>
+        <author>
+            <name>Kirill Krakov</name>
+            <birthday>2004-02-17T14:00:00</birthday>
+            <passportID>1337 228322</passportID>
+        </author>
+    </labWork>
+    <labWork>
+        <id>2</id>
+        <name>Лабораторная работа №5 по программированию</name>
+        <coordinates>
+            <x>3.05</x>
+            <y>27</y>
+        </coordinates>
+        <creationDate>2023-02-22T13:37:00</creationDate>
+        <minimalPoint>2</minimalPoint>
+        <personalQualitiesMinimum>7.2</personalQualitiesMinimum>
+        <averagePoint>65</averagePoint>
+        <difficulty>TERRIBLE</difficulty>
+        <author>
+            <name>Grzegorz Brzęczyszczykiewicz</name>
+            <birthday>2004-12-10T10:15:30</birthday>
+            <passportID>3333 555666</passportID>
+        </author>
+    </labWork>
+    <labWork>
+        <id>3</id>
+        <name>Лабораторная работа №1 по базам данных</name>
+        <coordinates>
+            <x>124.0</x>
+            <y>222</y>
+        </coordinates>
+        <creationDate>2023-03-20T00:02:11.5600897</creationDate>
+        <minimalPoint>6</minimalPoint>
+        <personalQualitiesMinimum>135.753</personalQualitiesMinimum>
+        <averagePoint>8</averagePoint>
+        <difficulty>HOPELESS</difficulty>
+        <author>
+            <name>Afanasiy Vilkin</name>
+            <birthday>1988-10-15T14:34:00</birthday>
+            <passportID>6666 777777</passportID>
+        </author>
+    </labWork>
+    <labWork>
+        <id>4</id>
+        <name>Лабораторная работа №6 по программированию</name>
+        <coordinates>
+            <x>45.0</x>
+            <y>34</y>
+        </coordinates>
+        <creationDate>2023-03-20T03:52:17.6703295</creationDate>
+        <minimalPoint>60</minimalPoint>
+        <personalQualitiesMinimum>456.0</personalQualitiesMinimum>
+        <averagePoint>81</averagePoint>
+        <difficulty>TERRIBLE</difficulty>
+        <author>
+            <name>Lionel Messi</name>
+            <birthday>1987-06-24T22:00:04</birthday>
+            <passportID>4545 214034</passportID>
+        </author>
+    </labWork>
+    <labWork>
+        <id>6</id>
+        <name>Лабораторная работа №1 по информатике</name>
+        <coordinates>
+            <x>56.0</x>
+            <y>56</y>
+        </coordinates>
+        <creationDate>2023-03-21T19:46:13.0728118</creationDate>
+        <minimalPoint>62</minimalPoint>
+        <personalQualitiesMinimum>345.0</personalQualitiesMinimum>
+        <averagePoint>80</averagePoint>
+        <difficulty>VERY_EASY</difficulty>
+        <author>
+            <name>Chel Izvestniy</name>
+            <birthday>2014-03-03T05:32:22</birthday>
+            <passportID>3343 947592</passportID>
+        </author>
+    </labWork>
+    <labWork>
+        <id>7</id>
+        <name>Лабораторная работа №3 по базам данных</name>
+        <coordinates>
+            <x>12.0</x>
+            <y>1243</y>
+        </coordinates>
+        <creationDate>2023-05-08T20:44:41.4226816</creationDate>
+        <minimalPoint>45</minimalPoint>
+        <personalQualitiesMinimum>60.0</personalQualitiesMinimum>
+        <averagePoint>65</averagePoint>
+        <difficulty>TERRIBLE</difficulty>
+        <author>
+            <name>Alexander Levin</name>
+            <birthday>1995-11-12T12:12:00</birthday>
+            <passportID>12212</passportID>
+        </author>
+    </labWork>
+    <labWork>
+        <id>8</id>
+        <name>������ୠ� ࠡ�� �7 �� �ணࠬ��஢����</name>
+        <coordinates>
+            <x>23.0</x>
+            <y>23</y>
+        </coordinates>
+        <creationDate>2023-05-11T23:07:42.0517938</creationDate>
+        <minimalPoint>60</minimalPoint>
+        <personalQualitiesMinimum>1.0E8</personalQualitiesMinimum>
+        <averagePoint>61</averagePoint>
+        <difficulty>HOPELESS</difficulty>
+        <author>
+            <name>Dmitriy Serov</name>
+            <birthday>1996-08-17T12:12:00</birthday>
+            <passportID>1234 567899</passportID>
+        </author>
+    </labWork>
+</labWorkCatalog>
