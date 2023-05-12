@@ -1,6 +1,0 @@
-info
-remove_by_id 9
-history
-help
-info
-show
