@@ -1,0 +1,10 @@
+info
+info
+info
+show
+help
+history
+remove_by_id 100
+show
+info
+filter_contains_name 4
